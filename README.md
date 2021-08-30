@@ -19,10 +19,10 @@ Generation List:
 
 Pokedex List:
 
-<img src="https://user-images.githubusercontent.com/84573770/131295453-ca29f419-357a-4243-958f-0a563540fd54.png" alt="Pokedex List" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/84573770/131295453-ca29f419-357a-4243-958f-0a563540fd54.png" alt="Pokedex List" width="300" height="650">    <img src="https://user-images.githubusercontent.com/84573770/131300179-5be320b0-fc91-46cc-8acb-6e24ed61f911.png" alt="Pokedex List Dark" width="300" height="650">
 
 
-![Pokedex List 2](https://user-images.githubusercontent.com/84573770/131295453-ca29f419-357a-4243-958f-0a563540fd54.png)
+
 ![Pokedex Detail](https://user-images.githubusercontent.com/84573770/131295461-4f5e3c33-d9a7-4611-b377-ade463a08d7c.png)
 ![Quiz List](https://user-images.githubusercontent.com/84573770/131295471-364be645-87b8-4926-8d7f-cad6ad7f78a5.png)
 ![Quiz](https://user-images.githubusercontent.com/84573770/131295478-e09118f7-2ffe-41de-a668-083911b96427.png)
