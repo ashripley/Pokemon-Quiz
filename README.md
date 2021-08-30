@@ -5,7 +5,7 @@ This is my Pokemon App designed and written in SwiftUI
 
 I will include screenshots and gifs of the app, there are currently more pokedex to come, with an array of quizzes to be released.
 
-                                                        Pokedex
+                                                          Pokedex
 
 
 <img src="https://user-images.githubusercontent.com/84573770/131301776-159a562d-7fcc-44c1-a0aa-5315c1cfcce0.mov" alt="Welcome Screen" width="300" height="650">  
