@@ -23,13 +23,11 @@ Pokedex List:
 
 Pokedex Detail:
 
-<img src="https://user-images.githubusercontent.com/84573770/131295461-4f5e3c33-d9a7-4611-b377-ade463a08d7c.png" alt="Pokedex Detail" width="300" height="650"> 
-<img src="https://user-images.githubusercontent.com/84573770/131300358-eacdb33b-5c9c-4267-8dd2-7c6e80bb416f.png" alt="Pokedex detail dark" width="300" height="650">    
+<img src="https://user-images.githubusercontent.com/84573770/131295461-4f5e3c33-d9a7-4611-b377-ade463a08d7c.png" alt="Pokedex Detail" width="300" height="650">  <img src="https://user-images.githubusercontent.com/84573770/131300358-eacdb33b-5c9c-4267-8dd2-7c6e80bb416f.png" alt="Pokedex detail dark" width="300" height="650">    
 
 Quiz List:
 
-<img src="https://user-images.githubusercontent.com/84573770/131295471-364be645-87b8-4926-8d7f-cad6ad7f78a5.png" alt="Quiz List" width="300" height="650">
-<img src="https://user-images.githubusercontent.com/84573770/131300509-f32ef288-b4c8-4dd5-9f85-13d0cb7293ac.png" alt="Quiz List dark" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/84573770/131295471-364be645-87b8-4926-8d7f-cad6ad7f78a5.png" alt="Quiz List" width="300" height="650">. <img src="https://user-images.githubusercontent.com/84573770/131300509-f32ef288-b4c8-4dd5-9f85-13d0cb7293ac.png" alt="Quiz List dark" width="300" height="650">
 
 Quiz:
 
