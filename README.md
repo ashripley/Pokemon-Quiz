@@ -1,5 +1,4 @@
 # Pokemon-Quiz
-Pokemon Quiz App
 
 This is my Pokemon App designed and written in SwiftUI
 
