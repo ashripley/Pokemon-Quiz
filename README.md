@@ -7,7 +7,8 @@ I will include screenshots and gifs of the app, there are currently more pokedex
 
 Welcome Screen:
 
-<img src="https://user-images.githubusercontent.com/84573770/131295155-c599c23f-dfd4-4445-a3e4-79bb1d74d72d.png" alt="Welcome Screen" width="300" height="650"> <img src="https://user-images.githubusercontent.com/84573770/131297314-c832ac79-ac36-4e4f-bac9-66832796ad46.png" alt="Home Screen Dark" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/84573770/131295155-c599c23f-dfd4-4445-a3e4-79bb1d74d72d.png" alt="Welcome Screen" width="300" height="650"> 
+<img src="https://user-images.githubusercontent.com/84573770/131297314-c832ac79-ac36-4e4f-bac9-66832796ad46.png" alt="Home Screen Dark" width="300" height="650">
 
 
 Home Screen:
