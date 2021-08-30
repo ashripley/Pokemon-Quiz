@@ -21,14 +21,22 @@ Pokedex List:
 
 <img src="https://user-images.githubusercontent.com/84573770/131295453-ca29f419-357a-4243-958f-0a563540fd54.png" alt="Pokedex List" width="300" height="650">    <img src="https://user-images.githubusercontent.com/84573770/131300179-5be320b0-fc91-46cc-8acb-6e24ed61f911.png" alt="Pokedex List Dark" width="300" height="650">
 
+Pokedex Detail:
 
+<img src="https://user-images.githubusercontent.com/84573770/131295461-4f5e3c33-d9a7-4611-b377-ade463a08d7c.png" alt="Pokedex Detail" width="300" height="650"> 
+<img src="https://user-images.githubusercontent.com/84573770/131300358-eacdb33b-5c9c-4267-8dd2-7c6e80bb416f.png" alt="Pokedex detail dark" width="300" height="650">    
 
-![Pokedex Detail](https://user-images.githubusercontent.com/84573770/131295461-4f5e3c33-d9a7-4611-b377-ade463a08d7c.png)
-![Quiz List](https://user-images.githubusercontent.com/84573770/131295471-364be645-87b8-4926-8d7f-cad6ad7f78a5.png)
-![Quiz](https://user-images.githubusercontent.com/84573770/131295478-e09118f7-2ffe-41de-a668-083911b96427.png)
-![Quiz Incorrect](https://user-images.githubusercontent.com/84573770/131295488-2758d935-deb8-4c5d-9433-bb0d60be02c0.png)
+Quiz List:
 
+<img src="https://user-images.githubusercontent.com/84573770/131295471-364be645-87b8-4926-8d7f-cad6ad7f78a5.png" alt="Quiz List" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/84573770/131300509-f32ef288-b4c8-4dd5-9f85-13d0cb7293ac.png" alt="Quiz List dark" width="300" height="650">
 
-<img src="url" alt="alt text" width="whatever" height="whatever">
+Quiz:
+
+<img src="https://user-images.githubusercontent.com/84573770/131295478-e09118f7-2ffe-41de-a668-083911b96427.png" alt="Quiz" width="300" height="650">            <img src="https://user-images.githubusercontent.com/84573770/131300683-9ccd538a-b81a-4a6b-9218-600625069fb6.png" alt="Quiz Dark" width="300" height="650">
+
+Quiz Incorrect Answer:
+
+<img src="https://user-images.githubusercontent.com/84573770/131295488-2758d935-deb8-4c5d-9433-bb0d60be02c0.png" alt="Quiz Incorrect" width="300" height="650">. <img src="https://user-images.githubusercontent.com/84573770/131300820-fe857a09-4e90-4528-9b21-d7e80bcc048d.png" alt="Quiz Incorrect Dark" width="300" height="650">
 
 
