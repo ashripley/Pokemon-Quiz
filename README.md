@@ -7,12 +7,13 @@ I will include screenshots and gifs of the app, there are currently more pokedex
 
 Welcome Screen:
 
-<img src="https://user-images.githubusercontent.com/84573770/131295155-c599c23f-dfd4-4445-a3e4-79bb1d74d72d.png" alt="Welcome Screen" width="300" height="650">      <img src="https://user-images.githubusercontent.com/84573770/131297314-c832ac79-ac36-4e4f-bac9-66832796ad46.png" alt="Home Screen Dark" width="300" height="650">
-
+<img src="https://user-images.githubusercontent.com/84573770/131295155-c599c23f-dfd4-4445-a3e4-79bb1d74d72d.png" alt="Welcome Screen" width="300" height="650">   
+<img src="https://user-images.githubusercontent.com/84573770/131297641-ebde15a6-b9d7-44af-986d-8bde0f479020.png" alt="Welcome Screen Dark" width="300" height="650">
 
 Home Screen:
 
-<img src="https://user-images.githubusercontent.com/84573770/131295329-48c0fa9a-e64d-4725-8f33-00a1356a9ae4.png" alt="Home Screen" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/84573770/131295329-48c0fa9a-e64d-4725-8f33-00a1356a9ae4.png" alt="Home Screen" width="300" height="650">     <img src="https://user-images.githubusercontent.com/84573770/131297314-c832ac79-ac36-4e4f-bac9-66832796ad46.png" alt="Home Screen Dark" width="300" height="650">
+
 
 ![Pokedex List](https://user-images.githubusercontent.com/84573770/131295446-025f7e5d-30d0-46d4-9cf3-01c466a4a988.png)
 ![Pokedex List 2](https://user-images.githubusercontent.com/84573770/131295453-ca29f419-357a-4243-958f-0a563540fd54.png)
@@ -23,5 +24,6 @@ Home Screen:
 
 
 <img src="url" alt="alt text" width="whatever" height="whatever">
+![Welcome Screen Dark]()
 
 
