@@ -5,7 +5,7 @@ This is my Pokemon App designed and written in SwiftUI
 
 I will include screenshots and gifs of the app, there are currently more pokedex to come, with an array of quizzes to be released.
 
-Screen recordings:
+                                                                   Screen Recordings:
 
 Pokedex:
 
@@ -15,7 +15,7 @@ Quiz:
 
 <img src="https://user-images.githubusercontent.com/84573770/131301906-b495e00a-9b87-4770-ab74-e7c149fddc7d.mov" alt="Welcome Screen" width="300" height="650">
 
-                                                                        Screen Shots:
+                                                                    Screen Shots:
 
 Welcome Screen:
 
