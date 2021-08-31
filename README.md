@@ -1,8 +1,10 @@
 # Pokemon-Quiz
 
+        <img src="https://user-images.githubusercontent.com/84573770/131421587-26c616d1-dddb-4a0d-9071-02ea3f6ed1af.png" alt="Pokemon logo" width="200" height="200">
+
 This is my Pokemon App designed and written in SwiftUI
 
-I will include screenshots and gifs of the app, there are currently more pokedex to come, with an array of quizzes to be released.
+There are currently more pokedex to come, with an array of quizzes to be released.
 
     Pokedex
 
