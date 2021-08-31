@@ -1,6 +1,6 @@
 # Pokemon-Quiz
 
-        <img src="https://user-images.githubusercontent.com/84573770/131421587-26c616d1-dddb-4a0d-9071-02ea3f6ed1af.png" alt="Pokemon logo" width="200" height="200">
+   <img src="https://user-images.githubusercontent.com/84573770/131421587-26c616d1-dddb-4a0d-9071-02ea3f6ed1af.png" alt="Pokemon logo" width="200" height="200">
 
 This is my Pokemon App designed and written in SwiftUI
 
