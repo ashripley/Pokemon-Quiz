@@ -2,7 +2,7 @@
 //  WelcomeScreen.swift
 //  Pokemon Quiz
 //
-//  Created by Kat and Ash on 19/8/21.
+//  Created by Ash Bronca on 19/8/21.
 //
 
 import SwiftUI
