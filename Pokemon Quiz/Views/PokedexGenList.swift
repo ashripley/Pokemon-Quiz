@@ -9,36 +9,40 @@ import SwiftUI
 
 struct PokedexGenList: View {
     var body: some View {
-        List{
-            HStack {
-                Image("#001 Bulbasaur")
-                    .resizable()
-                    .frame(width: 30, height: 30)
-                NavigationLink(destination: Gen1Pokedex()) {
-                    Text("Generation 1")
-                        .font(.title2)
-                        .fontWeight(.light)
-                        .navigationBarTitle("Generations")
-                        .navigationBarTitleDisplayMode(.inline)
+        Form{
+            Section{
+                HStack {
+                    Image("#001 Bulbasaur")
+                        .resizable()
+                        .frame(width: 50, height: 50)
+                    NavigationLink(destination: Gen1Pokedex()) {
+                        Text("Generation 1")
+                            .font(.title3)
+                            .fontWeight(.light)
+                            .navigationBarTitle("Generations")
+                            .navigationBarTitleDisplayMode(.inline)
+                    }
                 }
+                .padding(.vertical, 10)
             }
+            
             HStack {
-                Image("Pokedex")
+                Image("Pokeball")
                     .resizable()
-                    .frame(width: 30, height: 30)
+                    .frame(width: 50, height: 50)
                 Text("Generations 2-8")
-                    .font(.title2)
+                    .font(.title3)
                     .fontWeight(.light)
                 Spacer()
                 Text("Coming Soon...")
-                    .font(.title3)
+                    .font(.footnote)
                     .fontWeight(.light)
                     .foregroundColor(.gray)
             }
-
+            .padding(.vertical, 10)
         }
         .navigationBarTitle(Text("Generations"), displayMode: .inline)
-        .padding(.top, 20)
+//        .padding(.top, 20)
     }
 }
 

@@ -2,7 +2,7 @@
 //  WelcomeScreen.swift
 //  Pokemon Quiz
 //
-//  Created by Ash Bronca on 19/8/21.
+//  Created by Ash on 19/8/21.
 //
 
 import SwiftUI
@@ -36,7 +36,7 @@ struct WelcomeScreen: View {
                             .shadow(radius: 15)
                             .padding(10)
                             .background(/*@START_MENU_TOKEN@*//*@PLACEHOLDER=View@*/Color.white/*@END_MENU_TOKEN@*/).clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
-                            .shadow(radius: 7)
+                            .shadow(color: .green, radius: 5, x: 0.0, y: 0.0)
                         
                         
                         Image("#004 Charmander")
@@ -46,7 +46,7 @@ struct WelcomeScreen: View {
                             .shadow(radius: 15)
                             .padding(10)
                             .background(/*@START_MENU_TOKEN@*//*@PLACEHOLDER=View@*/Color.white/*@END_MENU_TOKEN@*/).clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
-                            .shadow(radius: 7)
+                            .shadow(color: .red, radius: 5, x: 0.0, y: 0.0)
                             
                         Image("#007 Squirtle")
                             .renderingMode(.original)
@@ -55,10 +55,8 @@ struct WelcomeScreen: View {
                             .shadow(radius: 15)
                             .padding(10)
                             .background(/*@START_MENU_TOKEN@*//*@PLACEHOLDER=View@*/Color.white/*@END_MENU_TOKEN@*/).clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
-                            .shadow(radius: 7)
+                            .shadow(color: .blue, radius: 5, x: 0.0, y: 0.0)
                     }
-
-
                     .shadow(radius: 7)
                     
                     Spacer()
@@ -70,20 +68,22 @@ struct WelcomeScreen: View {
                             .padding(20)
                             .background(/*@START_MENU_TOKEN@*//*@PLACEHOLDER=View@*/Color.white/*@END_MENU_TOKEN@*/).clipShape(Rectangle())
                             .cornerRadius(25)
-                            .shadow(radius: 10)
                             .foregroundColor(.blue)
                     }
+                    .shadow(radius: 17)
+
                     .padding()
                     Spacer()
                     Spacer()
                 }
-                .navigationBarTitle(Text("Home"), displayMode: .inline)
-                .navigationBarHidden(true)
+//                .navigationBarTitle(Text("Home"), displayMode: .inline)
             }
+            .navigationBarHidden(true)
         }
         .navigationViewStyle(StackNavigationViewStyle())
     } // Remove hanging navigation link
 }
+
 
 struct WelcomeScreen_Previews: PreviewProvider {
     static var previews: some View {

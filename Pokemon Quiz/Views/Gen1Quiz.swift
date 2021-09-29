@@ -62,7 +62,7 @@ struct Gen1Quiz: View {
                                       "#088 Grimer", "#089 Muk", "#090 Shellder",
                                       "#091 Cloyster", "#092 Gastly", "#093 Haunter",
                                       "#094 Gengar", "#095 Onix", "#096 Drowzee",
-                                      "#097 Hypno", "#098 Crabby", "#099 Kingler",
+                                      "#097 Hypno", "#098 Krabby", "#099 Kingler",
                                       "#100 Voltorb", "#101 Electrode", "#102 Exeggcute",
                                       "#103 Exeggutor", "#104 Cubone", "#105 Marowak",
                                       "#106 Hitmonlee", "#107 Hitmonchan", "#108 Lickitung",
@@ -78,7 +78,7 @@ struct Gen1Quiz: View {
                                       "#136 Flareon", "#137 Porygon", "#138 Omanyte",
                                       "#139 Omastar", "#140 Kabuto", "#141 Kabutops",
                                       "#142 Aerodactyl", "#143 Snorlax", "#144 Articuno",
-                                      "#145 Zaptos", "#146 Moltres", "#147 Dratini",
+                                      "#145 Zapdos", "#146 Moltres", "#147 Dratini",
                                       "#148 Dragonair", "#149 Dragonite", "#150 Mewtwo",
                                       "#151 Mew"].shuffled()
     var body: some View {

@@ -21,11 +21,11 @@
 		07E547F526CE0F8B0053A30A /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E547F426CE0F8B0053A30A /* HomeScreen.swift */; };
 		07E547F726CE105B0053A30A /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E547F626CE105B0053A30A /* Pokemon.swift */; };
 		07E547F926CE185E0053A30A /* PokedexRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E547F826CE185E0053A30A /* PokedexRow.swift */; };
+		803CA286270452F200460A99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 803CA285270452F100460A99 /* Assets.xcassets */; };
 		8046126426D1F6E7001F7176 /* Gen3Quiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8046126326D1F6E7001F7176 /* Gen3Quiz.swift */; };
 		8046126626D2131B001F7176 /* AllGenQuiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8046126526D2131B001F7176 /* AllGenQuiz.swift */; };
 		8051BBB226CC5DED006DC7F4 /* Pokemon_QuizApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8051BBB126CC5DED006DC7F4 /* Pokemon_QuizApp.swift */; };
 		8051BBB426CC5DED006DC7F4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8051BBB326CC5DED006DC7F4 /* ContentView.swift */; };
-		8051BBB626CC5DF3006DC7F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8051BBB526CC5DF3006DC7F4 /* Assets.xcassets */; };
 		8051BBB926CC5DF3006DC7F4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8051BBB826CC5DF3006DC7F4 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
@@ -44,12 +44,12 @@
 		07E547F426CE0F8B0053A30A /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
 		07E547F626CE105B0053A30A /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		07E547F826CE185E0053A30A /* PokedexRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokedexRow.swift; sourceTree = "<group>"; };
+		803CA285270452F100460A99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8046126326D1F6E7001F7176 /* Gen3Quiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gen3Quiz.swift; sourceTree = "<group>"; };
 		8046126526D2131B001F7176 /* AllGenQuiz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllGenQuiz.swift; sourceTree = "<group>"; };
 		8051BBAE26CC5DED006DC7F4 /* Pokemon Quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pokemon Quiz.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8051BBB126CC5DED006DC7F4 /* Pokemon_QuizApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon_QuizApp.swift; sourceTree = "<group>"; };
 		8051BBB326CC5DED006DC7F4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		8051BBB526CC5DF3006DC7F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8051BBB826CC5DF3006DC7F4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8051BBBA26CC5DF3006DC7F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -126,7 +126,7 @@
 				07E547D326CDF2170053A30A /* Views */,
 				07E547D426CDF2290053A30A /* Models */,
 				07E547D526CDF2320053A30A /* Resources */,
-				8051BBB526CC5DF3006DC7F4 /* Assets.xcassets */,
+				803CA285270452F100460A99 /* Assets.xcassets */,
 				8051BBBA26CC5DF3006DC7F4 /* Info.plist */,
 				8051BBB726CC5DF3006DC7F4 /* Preview Content */,
 			);
@@ -199,8 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				07BDB0DA26CE2D51004B2408 /* Gen1Data.json in Resources */,
+				803CA286270452F200460A99 /* Assets.xcassets in Resources */,
 				8051BBB926CC5DF3006DC7F4 /* Preview Assets.xcassets in Resources */,
-				8051BBB626CC5DF3006DC7F4 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

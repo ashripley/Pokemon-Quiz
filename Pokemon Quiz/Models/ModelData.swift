@@ -2,7 +2,7 @@
 //  ModelData.swift
 //  Pokemon Quiz
 //
-//  Created by Kat and Ash on 19/8/21.
+//  Created by Ash on 19/8/21.
 //
 
 import Foundation
@@ -30,3 +30,5 @@ func load<T: Decodable>(_ filename: String) -> T {
         fatalError("Couldn't parse \(filename) as \(T.self):\n\(error)")
     }
 }
+
+

@@ -2,7 +2,7 @@
     {
         "name": "Bulbasaur",
         "number": "#001",
-        "type": "Grass, Poison",
+        "type": "Grass",
         "weaknesses": "Fire, Psychic, Flying, Ice",
         "id": 1001,
         "evolutions": "Bulbasaur, Ivysaur, Venasaur",
