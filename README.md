@@ -14,12 +14,12 @@ There are currently more pokedex to come, with an array of quizzes to be release
 
     Pokedex
 
+<img src="https://user-images.githubusercontent.com/84573770/136005474-01c756da-8840-4669-a8c6-f096a707e385.mov" alt="Welcome Screen" width="300" height="650">
 
-<img src="https://user-images.githubusercontent.com/84573770/136005503-932b7b01-50a4-49b7-9648-d888df0617b7.mov" alt="Welcome Screen" width="300" height="650">  
 
     Quiz
 
-<img src="https://user-images.githubusercontent.com/84573770/136005474-01c756da-8840-4669-a8c6-f096a707e385.mov" alt="Welcome Screen" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/84573770/136005503-932b7b01-50a4-49b7-9648-d888df0617b7.mov" alt="Welcome Screen" width="300" height="650">  
 
 
     Screen Shots
