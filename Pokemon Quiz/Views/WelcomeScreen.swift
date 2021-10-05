@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct WelcomeScreen: View {
+    @State private var zoomed = false
+    
     var body: some View {
         NavigationView {
             ZStack {
@@ -32,13 +34,14 @@ struct WelcomeScreen: View {
                         Image("#001 Bulbasaur")
                             .renderingMode(.original)
                             .resizable()
+                            .aspectRatio(contentMode: zoomed ? .fill : .fit)
+                            .onTapGesture { zoomed.toggle() }
                             .frame(width: 80, height: 80)
                             .shadow(radius: 15)
                             .padding(10)
                             .background(/*@START_MENU_TOKEN@*//*@PLACEHOLDER=View@*/Color.white/*@END_MENU_TOKEN@*/).clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
                             .shadow(color: .green, radius: 5, x: 0.0, y: 0.0)
-                        
-                        
+
                         Image("#004 Charmander")
                             .renderingMode(.original)
                             .resizable()

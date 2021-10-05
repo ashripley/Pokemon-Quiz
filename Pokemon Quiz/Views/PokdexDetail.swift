@@ -15,6 +15,7 @@ struct pokedexDetail: View {
             ColourImage(pokemon: pokemon)
                 .ignoresSafeArea(edges: .top)
                 .frame(height: 300)
+                .opacity(0.4)
 
             
             CircleImage(image: pokemon.image)
@@ -39,17 +40,17 @@ struct pokedexDetail: View {
                     HStack{
                         // It is here that I am wanting to bring in the dynamic types
                         // I have reverted the type array in JSON file to just be a string, and same in the Pokemon model
-                        // I have set them statically currently so you can see what I mean :)
+                        // I have set them statically currently
 
-                        Image(pokemon.type)
+                        Image("Grass")
                             .renderingMode(.original)
                             .resizable()
                             .frame(width: 150, height: 25)
                             .overlay(Rectangle().stroke(Color.white, lineWidth: 8).padding(.all, -30))
                             .background(/*@START_MENU_TOKEN@*//*@PLACEHOLDER=View@*/Color.white/*@END_MENU_TOKEN@*/).clipShape(Rectangle())
                             .shadow(radius: 7)
-
-                        Image(pokemon.type)
+                        
+                        Image("Poison")
                             .renderingMode(.original)
                             .resizable()
                             .frame(width: 150, height: 25)
@@ -67,7 +68,25 @@ struct pokedexDetail: View {
 
                     Spacer()
                     
-                    Text(pokemon.weaknesses)
+                    HStack {
+                        Image("Fire")
+                            .renderingMode(.original)
+                            .resizable()
+                            .frame(width: 150, height: 25)
+                            .overlay(Rectangle().stroke(Color.white, lineWidth: 8).padding(.all, -30))
+                            .background(/*@START_MENU_TOKEN@*//*@PLACEHOLDER=View@*/Color.white/*@END_MENU_TOKEN@*/).clipShape(Rectangle())
+                            .shadow(radius: 7)
+                        
+                        Image("Flying")
+                            .renderingMode(.original)
+                            .resizable()
+                            .frame(width: 150, height: 25)
+                            .overlay(Rectangle().stroke(Color.white, lineWidth: 8).padding(.all, -30))
+                            .background(/*@START_MENU_TOKEN@*//*@PLACEHOLDER=View@*/Color.white/*@END_MENU_TOKEN@*/).clipShape(Rectangle())
+                            .shadow(radius: 7)
+                    }
+                    
+//                    Text(pokemon.weaknesses)
                 }
                 .font(.subheadline)
                 .foregroundColor(.black)

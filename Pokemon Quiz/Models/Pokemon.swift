@@ -24,13 +24,13 @@ struct Pokemon: Hashable, Codable, Identifiable {
         Image(imageName)
     }
     
-    func typeImage(forType type: String) -> Image {
-        if type.contains("Grass") {
-            return Image("Grass")
-        }else {
-            return Image("Fire")
-        }
-    }
+//    func typeImage(forType type: String) -> Image {
+//        if type.contains("Grass") {
+//            return Image("Grass")
+//        }else {
+//            return Image("Fire")
+//        }
+//    }
     
     func backgroundColor(forType type: String) -> Color {
         if type.contains("Fire") {

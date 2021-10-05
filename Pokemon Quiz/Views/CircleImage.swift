@@ -10,7 +10,6 @@ import SwiftUI
 struct CircleImage: View {
     
     var image: Image
-    @State private var zoomed = false
     
     var body: some View {
         
