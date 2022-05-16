@@ -17,7 +17,7 @@ There are currently more pokedex to come, with an array of quizzes to be release
 
     Pokedex
 
-<img src="https://user-images.githubusercontent.com/84573770/168691543-7bf1a87c-ca6e-496f-968d-a2f64e3bfc28.mp4" alt="Welcome Screen" width="300" height="650">
+<img src="https://user-images.githubusercontent.com/84573770/168691543-7bf1a87c-ca6e-496f-968d-a2f64e3bfc28.mp4">
 
 
     Quiz
